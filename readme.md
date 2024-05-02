@@ -1,5 +1,9 @@
 # Projeto de Curso do Senac / Resilia / CNSeg
 
+# Diagrama
+
+![diagram](https://github.com/ysmaelmarks/projeto2_SNSeg_SENAC/blob/main/diagram.png)
+
 # Descrição do Projeto
 --------------------
 
