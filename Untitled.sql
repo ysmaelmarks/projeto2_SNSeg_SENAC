@@ -9,7 +9,7 @@ CREATE TABLE `Empresas` (
 
 CREATE TABLE `Tecnologias` (
   `id` integer PRIMARY KEY,
-  `area` varchar(255),
+  `area` ENUM('webdev', 'dados', 'marketing'),
   `stack` varchar(255),
   `created_at` timestamp
 );
