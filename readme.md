@@ -14,11 +14,11 @@
 --------------------
 
 ## Perguntas do projeto
-# 1. Quais são as entidades necessárias?;
+### 1. Quais são as entidades necessárias?;
  * Empresas, tecnologias e colaboradores.
-# 2. Quais são os principais campos e seus respectivos tipos?;
+### 2. Quais são os principais campos e seus respectivos tipos?;
  * Os principais campos são: id (int) para identificar cada registro e ref_id(int) para identificar aonde o registro será referenciado. Demais campos são contatos, nomes e tecnologias que envolvem o projeto(varchar) 
-# 3. Como essas entidades estão relacionadas?;
+### 3. Como essas entidades estão relacionadas?;
  * Uma empresa pode possuir vários colaboradores (one to many) e uma empresa pode possuir vários tipos de tecnologia (one to many).
-# 4. Simule 2 registros para cada entidade.
+### 4. Simule 2 registros para cada entidade.
  * Arquivo insercoes.xlsx
